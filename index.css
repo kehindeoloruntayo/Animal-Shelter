@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.row-animals {
+    gap: 2%;
+}
+
+body {
+    background-image: url(/img/background\.jpg);
+    color: blue;
+}
+
+.rounded-lg {
+        width: 50px;
+        height: 50px;
+}
+
+.allign {
+    align-items: center;
+    float: left;
+}
+
+.home {
+    margin-left: 300px;
+}
+
+img {
+    width: 200px;
+    height: 190px;
+}
+
+.col {
+    background-color: white;
+    padding: 4px;
+    opacity: 0.7;
+}
+
+li {
+    list-style: none;
+}
+
+col img {
+    padding-left: 10px;
+}
+
+.footer {
+    padding-left: 350px;
+}
