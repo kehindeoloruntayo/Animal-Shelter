@@ -56,3 +56,8 @@ button {
 .footer {
     padding-left: 350px;
 }
+
+.app {
+    width: 20px;
+    height: 20px;
+}

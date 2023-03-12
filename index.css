@@ -43,10 +43,11 @@ li {
     list-style: none;
 }
 
-col img {
-    padding-left: 10px;
-}
-
 .footer {
     padding-left: 350px;
+}
+
+.app {
+    width: 20px;
+    height: 20px;
 }

@@ -1,10 +1,11 @@
-# _NEWS BLOG_
-### _News blog is a piece of code used to showcase the knownloge of bootstrap_
+# _Kehinde's Animal Shelter_
+### _Kehinde's Animal Shelter is a collection of source code used to showcase the knownledge of bootstrap_
 
 ## Technology used
+* _GIT_
 * _HTML_
 * _CSS_
-* _Bootstap_
+* _BOOTSTRAP_
 
 ## Contact
 * _NAME: Oloruntayo Kehinde_
@@ -16,4 +17,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Newsblog contains pieces of source code that is copyright (c) 2023, MIT. This notice is included here to comply with the distribution terms.
+Kehinde's Animal Shelter contains pieces of source code that is under MIT licence. This notice is included here to comply with the distribution terms.
