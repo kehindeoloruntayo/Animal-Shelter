@@ -1,5 +1,5 @@
 # _Kehinde's Animal Shelter_
-### _Kehinde's Animal Shelter is a collection of source code used to showcase the knownledge of bootstrap_
+### _Kehinde's Animal Shelter is a collection of source code used to showcase the knowledge of bootstrap_
 
 ## Technology used
 * _GIT_
